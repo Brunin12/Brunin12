@@ -66,5 +66,5 @@
 
 ---
 
-![Curriculo](./Bruno Parreira.pdf)
+![Curriculo](./curriculo.pdf)
 
