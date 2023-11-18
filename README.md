@@ -6,14 +6,14 @@
 - 📖 I usually read self-help and finance books
 
 [![](https://visitcount.itsvg.in/api?id=Brunin12&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Curriculo](https://img.shields.io/badge/Curriculo-PDF-green?logo=adobe-acrobat-reader&logoColor=white)](./curriculo.pdf)
-
+[![Curriculo](https://img.shields.io/badge/Curriculum-PDF-green?logo=adobe-acrobat-reader&logoColor=white)](./curriculo.pdf)
   
 ---
 
 ### 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunin.br1/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-parreira-61b83b293/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-parreira-61b83b293/)
+- [![Whatsapp](https://img.shields.io/badge/Whatsapp-green.svg?logo=whatsapp&logoColor=white)](https://wa.me/5575988111744)
 ---
 
 ### 💻 Languages and Tools:
