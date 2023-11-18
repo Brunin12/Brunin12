@@ -66,5 +66,6 @@
 
 ---
 
-![Curriculo](./curriculo.pdf)
+[Curriculo](./curriculo.pdf)
+
 
