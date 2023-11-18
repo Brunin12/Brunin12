@@ -7,7 +7,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Brunin12&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Curriculo](https://img.shields.io/badge/Curriculum-PDF-green?logo=adobe-acrobat-reader&logoColor=white)](./curriculo.pdf)
-  
 ---
 
 ### 🌐 Socials:
@@ -26,7 +25,7 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 - ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-- ![Admin Templates](https://img.shields.io/badge/Admin%20Template-%231572B6.svg?logo=bootstrap&logoColor=white)
+- ![Admin Templates](https://img.shields.io/badge/Admin%20Templates-%231572B6.svg?logo=bootstrap&logoColor=white)
   
 ---
 
@@ -56,14 +55,26 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/Brunin12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunin12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin12&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Brunin12&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunin12&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
 <br/>
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brunin12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brunin12&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%">
+</div>
 
 
 
