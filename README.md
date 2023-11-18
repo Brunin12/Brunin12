@@ -4,6 +4,10 @@
 - 🔧 Challenges are my fuel, count me in to solve them!
 - 🌟 Future goals: Become a Fullstack mobile developer
 - 📖 I usually read self-help and finance books
+
+[![](https://visitcount.itsvg.in/api?id=Brunin12&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Curriculo](https://img.shields.io/badge/Curriculo-PDF-green?logo=adobe-acrobat-reader&logoColor=white)](./curriculo.pdf)
+
   
 ---
 
@@ -61,11 +65,8 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Brunin12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Brunin12&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-[Curriculo](./curriculo.pdf)
+
 
 
