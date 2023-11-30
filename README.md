@@ -11,7 +11,7 @@
 
 ### 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunin.br1/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/bruno-parreira12)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-parreira12)
 - [![Whatsapp](https://img.shields.io/badge/Whatsapp-green.svg?logo=whatsapp&logoColor=white)](https://wa.me/5575988111744)
 ---
 
