@@ -1,6 +1,6 @@
 # Hey there, I'm Brunin12 - Full Stack Developper 👋
 
-- 📘 Currently studying technologies such as Node, Next.js and React / React Native
+- 📘 Currently studying technologies such as Codeigniter 4, C# and React / React Native
 - 🔧 Challenges are my fuel, count me in to solve them!
 - 🌟 Future goals: Become a Fullstack mobile developer
 - 📖 I usually read self-help and finance books
