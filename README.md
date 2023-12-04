@@ -1,18 +1,29 @@
-# Hey there, I'm Brunin12 - Full Stack Developper 👋
+# Hi, I'm Bruno! - Full Stack Developer 👋
 
-- 📘 Currently studying technologies such as Codeigniter 4, C# and React / React Native
-- 🔧 Challenges are my fuel, count me in to solve them!
+- 📘 Currently studying technologies such as Codeigniter 4, Next and React Native
+- 🔧 Challenges are my fuel, include me to solve them!
 - 🌟 Future goals: Become a Fullstack mobile developer
 - 📖 I usually read self-help and finance books
 
-[![](https://visitcount.itsvg.in/api?id=Brunin12&icon=0&color=0)](https://visitcount.itsvg.in)
+<div> 
+     <a href="https://www.instagram.com/brunin.br1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:brunoparreira77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/bruno-parreira12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/5575988111744" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ </div>
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,php,next,bootstrap,arduino
+)](https://skillicons.dev)
 
 ---
 
-### 🌐 Socials:
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brunin.br1/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-parreira12)
-- [![Whatsapp](https://img.shields.io/badge/Whatsapp-green.svg?logo=whatsapp&logoColor=white)](https://wa.me/5575988111744)
+### 📊 GitHub Stats:
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunin12&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunin12&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunin12&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunin12&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Brunin12&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 ---
 
 ### 💻 Languages and Tools:
@@ -55,29 +66,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Brunin12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunin12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunin12&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-</div>
-<br/>
-
----
-
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Brunin12&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%">
 </div>
-
-
-
-
-
-
