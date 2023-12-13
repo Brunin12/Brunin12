@@ -36,6 +36,8 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 - ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+- ![JQuery](https://img.shields.io/badge/Jquery-%23323330.svg?logo=jquery&logoColor=%23F7DF1E)
 - ![Admin Templates](https://img.shields.io/badge/Admin%20Templates-%231572B6.svg?logo=bootstrap&logoColor=white)
   
 ---
@@ -46,9 +48,7 @@
 - ![C](http://img.shields.io/badge/-A8B9CC?logo=c&logoColor=ffffff)
 - ![PHP](https://img.shields.io/badge/PHP-%23593d88.svg?logo=php&logoColor=white)
 - ![Code Igniter](https://img.shields.io/badge/Code%20Igniter-%23593d88.svg?logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 - ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ---
 
