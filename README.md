@@ -38,7 +38,9 @@
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 - ![JQuery](https://img.shields.io/badge/Jquery-%23323330.svg?logo=jquery&logoColor=%23F7DF1E)
-- ![Admin Templates](https://img.shields.io/badge/Admin%20Templates-%231572B6.svg?logo=bootstrap&logoColor=white)
+- ![Quasar](https://img.shields.io/badge/Quasar-%231572B6.svg?logo=quasar&logoColor=white)
+- ![Electron](http://img.shields.io/badge/-Electron-007ACC?logo=electron&logoColor=ffffff)
+- ![Admin Templates](https://img.shields.io/badge/Admin%20Templates-%2300000f.svg?logo=bootstrap&logoColor=white)
   
 ---
 
