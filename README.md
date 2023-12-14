@@ -12,7 +12,7 @@
      <a href="https://wa.me/5575988111744" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,php,next,bootstrap,arduino
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,git,arduino
 )](https://skillicons.dev)
 
 ---
