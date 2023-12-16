@@ -1,6 +1,7 @@
-# Hi, I'm Bruno! - Full Stack Developer 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=800&lines=Hi+There,+I'm+Bruno+Parreira!;I'm+a+Full+Stack+Developer.;Currently+studying+Codeigniter+4,+and+Electron.;Challenges+are+my+fuel!;Future+goals:+Become+a+Full+Stack+mobile+developer;I+usually+read+self-help+and+finance+books.)
+<br />
 
-- 📘 Currently studying technologies such as Codeigniter 4, Next and React Native
+- 📘 Currently studying technologies such as Codeigniter 4 and Electron
 - 🔧 Challenges are my fuel, include me to solve them!
 - 🌟 Future goals: Become a Fullstack mobile developer
 - 📖 I usually read self-help and finance books
@@ -12,7 +13,7 @@
      <a href="https://wa.me/5575988111744" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,git,arduino
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,git,arduino
 )](https://skillicons.dev)
 
 ---
