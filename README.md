@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=800&lines=Hi+There,+I'm+Bruno+Parreira!;I'm+a+Full+Stack+Developer;Currently+studying+Codeigniter+4,+and+Electron;Challenges+are+my+fuel!;Future+goals:+Become+a+mobile+developer;I+usually+read+self-help+and+finance+books;Thank+you+Manuel+Carvalho+for+your+knowledge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=800&lines=Hi+There,+I'm+Bruno+Parreira!;I'm+a+Full+Stack+Developer;Currently+studying+Codeigniter+4,+and+Electron;Challenges+are+my+fuel!;Future+goals:+Become+a+mobile+developer;I+usually+read+self-help+and+finance+books;Thank+you+Manoel+Carvalho+for+your+knowledge)
 <br />
 
 - 📘 Currently studying technologies such as Codeigniter 4 and Electron
