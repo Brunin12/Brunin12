@@ -11,6 +11,8 @@
      <a href = "mailto:brunoparreira77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
      <a href="https://www.linkedin.com/in/bruno-parreira12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://wa.me/5575988111744" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="https://brunin12.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D1F7?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
  </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,git,arduino
