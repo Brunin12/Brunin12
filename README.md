@@ -15,8 +15,8 @@
 
  </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,git,arduino
-)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,electron,laravel,php,next,firebase,github,git,arduino
+)](https://brunin12.netlify.app)
 
 ---
 
