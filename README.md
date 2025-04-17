@@ -13,7 +13,7 @@
      <a href="https://www.linkedin.com/in/bruno-parreira12" target="_blank">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
      </a>
-     <a href="https://wa.me/5575988111744" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/5575992393146" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
      <a href="https://brunin12.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
